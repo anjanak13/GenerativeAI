@@ -20,3 +20,14 @@ The figures below depict the effect two different drawing styles have on the out
 <img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/53115157-a4fe-42d2-a029-d0eb7a288b0b" width="250">
 
 <img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/ca85fbe3-6e25-4b0e-bbe0-237b366aad00" width="250">
+
+
+## Evolution through generations
+
+The following figures illustrate the progression across generations, with increments of 100 shown in each step
+
+<p align="center">
+  <img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/8089a3a9-e94e-46d9-a3b9-3fd042209f5a" width="413">
+</p>
+
+
