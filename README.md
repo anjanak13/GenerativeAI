@@ -1,4 +1,4 @@
-# Generative AI Final Project 
+# Generative AI Final Project 🛰
 
 ## Problem Description
 
@@ -15,8 +15,8 @@ As denoted previously, I used a simple genetic algorithm and the process of evol
 
 The figures below depict the effect two different drawing styles have on the output, both the figures depict an output after 5200 generations with very similar controls attached. 
 
-<img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/0a4b3ff3-d59f-4f69-a13d-0da1050f2941" width="290">
+<img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/0a4b3ff3-d59f-4f69-a13d-0da1050f2941" width="250">
 
-<img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/53115157-a4fe-42d2-a029-d0eb7a288b0b" width="290">
+<img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/53115157-a4fe-42d2-a029-d0eb7a288b0b" width="250">
 
-<img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/ca85fbe3-6e25-4b0e-bbe0-237b366aad00" width="290">
+<img src="https://github.com/anjanak13/GenerativeAI/assets/102757443/ca85fbe3-6e25-4b0e-bbe0-237b366aad00" width="250">
